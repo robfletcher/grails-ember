@@ -14,7 +14,7 @@ class EmberGrailsPlugin {
 A plugin that provides resources definitions for Ember.js
 '''
 
-    def documentation = 'http://freeside.co/grails-ember'
+    def documentation = 'https://github.com/robfletcher/grails-ember/blob/master/README.md'
     def license = 'MIT'
     def organization = [ name: 'Freeside Software', url: 'http://freeside.co/' ]
     def issueManagement = [ system: 'GitHub', url: 'https://github.com/robfletcher/grails-ember/issues' ]
