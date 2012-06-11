@@ -1,4 +1,15 @@
+# work directories
 /target
+/web-app/WEB-INF
+
+# plugin build artifacts
 /*.zip*
 /*.xml
-/web-app/WEB-INF
+
+# intellij project files
+/*.iws
+/*.iml
+/*.ipr
+
+# logs
+stacktrace.log
