@@ -1,0 +1,4 @@
+/target
+/*.zip*
+/*.xml
+/web-app/WEB-INF
